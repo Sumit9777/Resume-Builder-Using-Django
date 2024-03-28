@@ -1,0 +1,6 @@
+asgiref==3.4.1
+Django==4.0.2
+django-unused-media==0.2.2
+pytz==2022.5
+six==1.16.0
+sqlparse==0.4.2
