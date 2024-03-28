@@ -8,3 +8,5 @@
 # pip install -r requirements.txt
 # pip install Pillow
 # python manage.py runserver
+
+Thank You!
